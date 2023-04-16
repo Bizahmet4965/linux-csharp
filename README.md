@@ -3,6 +3,8 @@ The files I gave above load dotnet and visual studio code
 
 for now there is only fedora a few days later i will upload files in arch linux and ubuntu
 
+To run the file above, go to the download folder, for example, go to the downloads folder, then respectively "cd Downloads/" "sudo sh fedora.sh"
+
 
 Hi guys
 
